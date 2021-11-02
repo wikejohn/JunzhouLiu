@@ -72,6 +72,9 @@ BILIBILI-HELPER
     - [Stargazers over time](#stargazers-over-time)
 
 ## 使用说明
+236427
+https://cold-scene-0c94.wi4272806037.workers.dev
+ad806487-2d26-4636-98b6-ab85cc8521f7
 
 ### 一、Actions 方式
 
